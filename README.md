@@ -1,0 +1,2 @@
+# touchOSC_-smartphone_music
+スマートフォンの加速度センサーの値をtouchOSCを用いて音を鳴らす
